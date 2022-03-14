@@ -11,3 +11,5 @@ Human activity recognition using smartphone data using dataset from the UCI Mach
 
 ## Algorithm Descrption
 For project demontration we used Logsitic Regression, K Nearest Neighbors, Random Forest,Support Vector Machine and Neural Networks for human activity recognition. We found out that Neural Netowrks performed the best in classifying different activities with accuracy of almost 96%.
+
+![download](https://user-images.githubusercontent.com/30599669/158129788-b13641cb-a880-4502-b994-46f4114dd799.png)
